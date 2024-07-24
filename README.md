@@ -1,3 +1,3 @@
 C Projects
 
-1) Rock Paper Sciccor
+1) Rock Paper Scissor
